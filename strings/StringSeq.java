@@ -18,6 +18,6 @@ public class StringSeq {
 
     // driver code
     public static void main(String[] args) {
-        System.out.println(skip("SaaraSiddiqui"));
+        System.out.println(skip("aabbbcsdsfdhaaaa"));
     }
 }
