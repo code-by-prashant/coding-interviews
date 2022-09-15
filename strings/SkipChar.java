@@ -1,6 +1,6 @@
 package Company.String;
 
-public class StringSeq {
+public class SkipChar {
 
     // function to skip character 'a'
     public static String skip(String up){
